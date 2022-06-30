@@ -1,0 +1,103 @@
+@import url(../styles/fonts.css);
+@import url(page/page.css);
+/* Header */
+@import url(page/header/header.css);
+@import url(page/header/logo/logo.css);
+@import url(page/header/logo/_place/header__logo_place.css);
+@import url(page/header/__title/header__title.css);
+@import url(page/header/__subtitle/header__subtitle.css);
+@import url(page/header/__subtitle/_place/header__subtitle_place.css);
+@import url(page/header/__link/header__link.css);
+@import url(page/header/main-illustration/main-illustration.css);
+@import url(page/header/main-illustration/_place/header__main-illustration_place.css);
+@import url(page/header/rotation/rotation.css);
+@import url(page/header/rotation/square-pic/square-pic.css);
+@import url(page/header/rotation/square-pic/_place/header__square-pic_place.css);
+/* Description */
+@import url(page/section/discription/discription.css);
+@import url(page/section/discription/two-columns/two-columns.css);
+@import url(page/section/discription/two-columns/brief/brief.css);
+@import url(page/section/discription/two-columns/main-text/main-text.css);
+@import url(page/section/discription/two-columns/main-text/paragraph/paragraph.css);
+@import url(page/section/discription/two-columns/main-text/paragraph/span-accent/span-accent.css);
+/* Techniques */
+@import url(page/section/techniques/techniques.css);
+@import url(page/section/techniques/techniques__page.css);
+@import url(page/section/techniques/section-title/section-title.css);
+@import url(page/section/techniques/section-subtitle/section-subtitle.css);
+@import url(page/section/techniques/cards/cards.css);
+@import url(page/section/techniques/cards/__item/item.css);
+@import url(page/section/techniques/cards/__item/__image/item__image.css);
+@import url(page/section/techniques/cards/__item/__title/cards__title.css);
+@import url(page/section/techniques/cards/__item/__description/cards__description.css);
+/* Video */
+@import url(page/section/video/video.css);
+@import url(page/section/video/ifraems/ifraems.css);
+/* Oakley */
+@import url(page/section/oakley/__two-columns_padding/oakley__two-columns_padding.css);
+/* Feynman */
+@import url(page/section/feynman/feynman.css);
+@import url(page/section/feynman/__title/feynman__title.css);
+@import url(page/section/feynman/__subtitle/feynman__subtitle.css);
+@import url(page/section/feynman/__link/feynman__link.css);
+@import url(page/section/feynman/__link/_text/feynman__link_text.css);
+/* Digits */
+@import url(page/section/digits/digits.css);
+@import url(page/section/digits/section-title/section-title.css);
+@import url(page/section/digits/section-subtitle/section-subtitle.css);
+@import url(page/section/digits/table/table.css);
+@import url(page/section/digits/table/cell/cell.css);
+@import url(page/section/digits/table/cell/heading/heading.css);
+@import url(page/section/digits/table/cell/text/text.css);
+@import url(page/section/digits/table/cell/text/_margin_top/cell__text_margin_top.css);
+/* Khan */
+@import url(page/section/khan/khan.css);
+@import url(page/section/khan/__container/khan__container.css);
+@import url(page/section/khan/__container/__author/khan__author.css);
+@import url(page/section/khan/__container/__title/khan__title.css);
+@import url(page/section/khan/__container/__quote/khan__quote.css);
+@import url(page/section/khan/__container/__quote-author/khan__quote-author.css);
+@import url(page/section/khan/__container/__quote-author-subline/khan__quote-author-subline.css);
+@import url(page/section/khan/__container/book-container/book-container.css);
+@import url(page/section/khan/__container/book-container/book-pic/book-pic.css);
+@import url(page/section/khan/__container/book-container/buy-link/buy-link.css);
+@import url(page/section/khan/__container/book-container/buy-link/_decoration/buy-link_decoration.css);
+/* Kaufman */
+@import url(page/section/kaufman/__triangle-pic_place/rotation__triangle/rotation__triangle.css);
+@import url(page/section/kaufman/__triangle-pic_place/kaufman__triangle-pic_place.css);
+@import url(page/section/kaufman/kaufman.css);
+@import url(page/section/kaufman/section-title/section-title.css);
+@import url(page/section/kaufman/section-title/_theme_dark/section-title_theme_dark.css);
+@import url(page/section/kaufman/section-subtitle/section-subtitle.css);
+@import url(page/section/kaufman/section-subtitle/_theme_dark/section-subtitle_theme_dark.css);
+@import url(page/section/kaufman/table/table.css);
+@import url(page/section/kaufman/table/_theme_dark/table_theme_dark.css);
+@import url(page/section/kaufman/table/cell/_theme_dark/table__cell_theme_dark.css);
+@import url(page/section/kaufman/table/cell/heading/heading.css);
+@import url(page/section/kaufman/table/cell/text/text.css);
+/* Resources */
+@import url(page/section/resources/section-title/section-title.css);
+@import url(page/section/resources/section-subtitle/section-subtitle.css);
+@import url(page/section/resources/logo-zone/logo-zone.css);
+@import url(page/section/resources/logo-zone/link/link.css);
+/* Footer */
+@import url(page/footer/footer.css);
+@import url(page/footer/columns/columns.css);
+@import url(page/footer/columns/column/column.css);
+@import url(page/footer/columns/column/_content_copyright/column_content_copyright.css);
+@import url(page/footer/columns/column/_content_copyright/footer__logo/footer__logo.css);
+@import url(page/footer/columns/column/_content_copyright/author/author.css);
+@import url(page/footer/columns/column/_content_info/column_content_info.css);
+@import url(page/footer/columns/column/column-heading/column-heading.css);
+@import url(page/footer/columns/column/column-links/column-links.css);
+@import url(page/footer/columns/column/column-links/column-link/column-link.css);
+@import url(page/footer/columns/column/column-links/footer__link/footer__link.css);
+@import url(page/footer/columns/column/column-links/link/social-meadia-logo/social-meadia-logo.css);
+
+
+
+
+
+
+
+
