@@ -1,0 +1,9 @@
+.khan__buy-link {
+    margin: 0;
+    margin-left: 48px;
+    transition: opacity .3s linear;
+  }
+
+  .khan__buy-link:hover {
+    opacity: 0.5;
+  }
